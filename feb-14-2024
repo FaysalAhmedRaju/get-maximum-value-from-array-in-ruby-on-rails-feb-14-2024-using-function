@@ -1,0 +1,10 @@
+items = [5, 1, 3]
+def my_method array
+  array.each {
+    |x| 
+  
+  }
+    
+    return array.max
+end
+puts my_method(items)
